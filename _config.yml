@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "James"
-  avatar           : "profile.png"
+  name             : "James Wellnitz"
+  avatar           : "headshot_small.jpg"
   bio              : "PhD student in Pharmaceutical Science @ UNC"
   location         : "Chapel Hill"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZhselLIAAAAJ&hl=en&authuser=1"
-  email            : "jwellnitz@unc.edu
+  email            : "jwellnitz@unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "james-wellnitz-3168b0150/
+  linkedin         : "james-wellnitz-3168b0150/"
   orcid            : 
   pinterest        :
   soundcloud       :
