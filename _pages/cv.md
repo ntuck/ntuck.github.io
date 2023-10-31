@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology, Meredith College, 2016
+* B.A. in Chemistry, Meredith College, 2016
+* Ph.D in the Curriculum in Toxicology and Environmental Medicine, UNC Chapel Hill, 2025 (expected)
 
 Work experience
 ======
