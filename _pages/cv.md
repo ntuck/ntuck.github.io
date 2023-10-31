@@ -15,6 +15,11 @@ Education
 * B.A. in Chemistry, Meredith College, 2016
 * Ph.D in the Curriculum in Toxicology and Environmental Medicine, UNC Chapel Hill, 2025 (expected)
 
+CV
+======
+[PDF Copy](https://ntuck.github.io/files/20231030_Tucker_CV.pdf)
+
+
 Work experience
 ======
 * Summer 2015: Research Assistant
