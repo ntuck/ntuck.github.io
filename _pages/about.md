@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD student in the Curriculum in Toxicology and Environmental Medicine at [UNC Chapel Hill](https://pharmacy.unc.edu/education/phd/) advised by [Prof Alexander Tropsha](https://pharmacy.unc.edu/directory/tropsha/)
-
+I am a 3rd year PhD student in the Curriculum in Toxicology and Environmental Medicine at [UNC Chapel Hill](https://pharmacy.unc.edu/education/phd/), a member of the [Molecular Modeling Lab](https://molecularmodelinglab.github.io/), and advised by [Prof Alexander Tropsha](https://pharmacy.unc.edu/directory/tropsha/).
 
