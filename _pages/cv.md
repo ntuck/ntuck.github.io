@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-[PDF Copy](https://ntuck.github.io/files/20231030_Tucker_CV.pdf)
-======
+# [PDF Copy](https://ntuck.github.io/files/20231030_Tucker_CV.pdf)
+
 
 Education
 ======
