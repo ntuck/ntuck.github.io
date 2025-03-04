@@ -19,7 +19,7 @@ CV
 ======
 [PDF Copy](https://ntuck.github.io/files/20231030_Tucker_CV.pdf)
 
-
+#
 Work experience
 ======
 * Summer 2015: Research Assistant
