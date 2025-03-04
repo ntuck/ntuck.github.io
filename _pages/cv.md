@@ -19,12 +19,12 @@ CV
 ======
 [PDF Copy](https://ntuck.github.io/files/20231030_Tucker_CV.pdf)
 
-# Work experience
-# ======
-# * Summer 2015: Research Assistant
-# * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
+<!--- Work experience
+ ======
+ * Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
 #* Fall 2015: Research Assistant
  # * Github University
