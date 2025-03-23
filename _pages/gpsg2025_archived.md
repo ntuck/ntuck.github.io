@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "GPSG Presidential Platform"
-permalink: /gpsg2025/
+permalink: /gpsg2025_archived/
 author_profile: true
 redirect_from:
   - /pres
